@@ -15,7 +15,7 @@
 </template>
 
 <script>
-import { TweenMax, TimelineLite, Back } from 'gsap'
+import { TimelineLite, Back } from 'gsap'
 
 export default {
   mounted() {

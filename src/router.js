@@ -46,6 +46,10 @@ export default new Router({
       path: '/storybook',
       name: 'storybook',
       component: () => import('./views/Storybook.vue')
+    },{
+      path: '/axios-and-vue',
+      name: 'axios-and-vue',
+      component: () => import('./views/AxiosAndVue.vue')
     }
 
   ]

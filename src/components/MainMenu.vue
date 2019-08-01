@@ -4,6 +4,7 @@
       <li><router-link to="/">Home</router-link></li>
       <li><router-link to="/Sobre">Sobre</router-link></li>
       <li><router-link to="/cursos">Cursos</router-link></li>
+      <li><router-link to="/axios-and-vue">Axios And Vue</router-link></li>
       <li><router-link to="/fontawesome">Fontawesome</router-link></li>
       <li><router-link to="/ghpages">GH Pages</router-link></li>
       <li><router-link to="/gsap">Greensock</router-link></li>
