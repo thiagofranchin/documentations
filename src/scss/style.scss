@@ -1,0 +1,8 @@
+@import 'partials/variables';
+@import '~bootstrap/scss/bootstrap';
+@import 'partials/fontawesome';
+@import '~highlight.js/styles/monokai-sublime.css';
+
+pre {
+  margin-bottom: 0;
+}
