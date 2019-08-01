@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e4aa2"],{"90d9":function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},s=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"axios-and-vue"},[t("h1",[e._v("Axios and Vue")])])}],u=t("2877"),c={},i=Object(u["a"])(c,a,s,!1,null,null,null);n["default"]=i.exports}}]);
-//# sourceMappingURL=chunk-2d0e4aa2.e3a269d4.js.map
