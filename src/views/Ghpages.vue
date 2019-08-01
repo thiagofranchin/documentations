@@ -26,5 +26,14 @@
       </code>
     </pre>
     <p>No Github, clique em <code>settings</code> e selecione <code>gh-pages</code> e clique em <code>Save</code>.</p>
+
+    <hr>
+
+    <h4>Atualizando</h4>
+    <ul>
+      <li>Faça um <code>push</code> das alterações para <code>master</code></li>
+      <li>Rode a <code>build</code></li>
+      <li>Faça um <code>push</code> da pasta <code>/dist</code> para o repositório <code>gh-pages</code></li>
+    </ul>
   </div>
 </template>
