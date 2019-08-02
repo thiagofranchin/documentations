@@ -25,30 +25,22 @@ export default {
     const tl = new TimelineMax();
 
     tl.from(box1, 3, {
-      x: 500,
-      opacity: .3
+      x: -100,
     })
     .add('box2Appear', '+=1') // (Label, Tempo)
     .from(box2, 3, {
-      x: -500,
-      opacity: .3
+      x: 100
     }, '+=1') // delay - Retarda 1s o inicio da animação em relação à anterior
-    .from(box3, 4, {
-      scale: 1,
-      opacity: .3
+    .from(box3, 3, {
+      x: 200
     }, '-=1') // overlap - Adianta 1s o inicio da animação em relação à anterior
-    .from(box4, 2, {
-      scale: -1,
-      opacity: .3
+    .from(box4, 3, {
+      x: 300
     }, 2) // position absolute: Conta o tempo absoluto (..., 2) para a animação começar
     .from(otherBox1 , 3, {
-      scale: -1,
-      opacity: .3,
       x: 400
     }, 'box2Appear')
-    .from(otherBox2 , 1, {
-      scale: -1,
-      opacity: .3,
+    .from(otherBox2 , 3, {
       x: 500
     }, 5, 'box2Appear+=3')
   }
