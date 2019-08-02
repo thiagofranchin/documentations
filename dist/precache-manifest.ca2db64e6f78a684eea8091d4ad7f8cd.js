@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "914437d606603d81e81a52e9e9b704b5",
-    "url": "/documentations/fonts/fa-regular-400.914437d6.woff2"
+    "revision": "222941bf21f9c9cb93bace95e9171d39",
+    "url": "/documentations/fonts/fa-regular-400.222941bf.woff"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
@@ -56,12 +56,12 @@ self.__precacheManifest = [
     "url": "/documentations/js/chunk-vendors.ef70816b.js"
   },
   {
-    "revision": "222941bf21f9c9cb93bace95e9171d39",
-    "url": "/documentations/fonts/fa-regular-400.222941bf.woff"
+    "revision": "914437d606603d81e81a52e9e9b704b5",
+    "url": "/documentations/fonts/fa-regular-400.914437d6.woff2"
   },
   {
-    "revision": "11eb68d64ca8be73a766",
-    "url": "/documentations/js/app.e009c191.js"
+    "revision": "5f3b294cd6ba4abc29ab",
+    "url": "/documentations/js/app.f0d041b9.js"
   },
   {
     "revision": "1f6eefbd80a5d5553199",
@@ -76,12 +76,12 @@ self.__precacheManifest = [
     "url": "/documentations/fonts/fa-solid-900.813b8aee.woff2"
   },
   {
-    "revision": "140f41485edce6f713abe17625eba4c1",
-    "url": "/documentations/fonts/fa-solid-900.140f4148.woff"
-  },
-  {
     "revision": "65e3be4eea08191c64040fbcb8006068",
     "url": "/documentations/fonts/fa-brands-400.65e3be4e.woff2"
+  },
+  {
+    "revision": "140f41485edce6f713abe17625eba4c1",
+    "url": "/documentations/fonts/fa-solid-900.140f4148.woff"
   },
   {
     "revision": "030846b7226a63373512cbd2c71ff51a",
@@ -100,12 +100,12 @@ self.__precacheManifest = [
     "url": "/documentations/fonts/fa-brands-400.3f5a250e.ttf"
   },
   {
-    "revision": "e57e108a1ae04ca2b27cab75e4478867",
-    "url": "/documentations/fonts/fa-solid-900.e57e108a.ttf"
-  },
-  {
     "revision": "4910ec733558f59bf05834d4f831a48d",
     "url": "/documentations/fonts/fa-solid-900.4910ec73.eot"
+  },
+  {
+    "revision": "e57e108a1ae04ca2b27cab75e4478867",
+    "url": "/documentations/fonts/fa-solid-900.e57e108a.ttf"
   },
   {
     "revision": "e98a92ac980c63c46a7e25c4fbcf30ef",
@@ -116,11 +116,11 @@ self.__precacheManifest = [
     "url": "/documentations/img/fa-brands-400.8e04d338.svg"
   },
   {
-    "revision": "9872aea6a9e946173cf838506b606cb1",
+    "revision": "750d00e99445b691e8b14bc4b57db025",
     "url": "/documentations/index.html"
   },
   {
-    "revision": "11eb68d64ca8be73a766",
+    "revision": "5f3b294cd6ba4abc29ab",
     "url": "/documentations/css/app.1a77030c.css"
   }
 ];
