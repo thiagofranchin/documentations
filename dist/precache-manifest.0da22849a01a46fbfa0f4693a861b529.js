@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/documentations/js/chunk-2d0af68d.99d7cfd9.js"
   },
   {
-    "revision": "621c8d0972b3c487ffd7",
-    "url": "/documentations/js/chunk-2d0c895a.074cfd4c.js"
+    "revision": "bea4ef76a035648a36fa",
+    "url": "/documentations/js/chunk-2d0c895a.8984f01b.js"
   },
   {
     "revision": "88a29d28d8a00ff077ad",
@@ -40,12 +40,12 @@ self.__precacheManifest = [
     "url": "/documentations/js/chunk-2d21d18e.d12f83d9.js"
   },
   {
-    "revision": "c7a33f16f3b8336e456b",
+    "revision": "37dddf054793542a79b6",
     "url": "/documentations/css/chunk-6c9d3210.702d593a.css"
   },
   {
-    "revision": "c7a33f16f3b8336e456b",
-    "url": "/documentations/js/chunk-6c9d3210.6d1c61f9.js"
+    "revision": "37dddf054793542a79b6",
+    "url": "/documentations/js/chunk-6c9d3210.c5e86e4a.js"
   },
   {
     "revision": "05f356f544dab292bd22",
@@ -60,8 +60,8 @@ self.__precacheManifest = [
     "url": "/documentations/fonts/fa-regular-400.914437d6.woff2"
   },
   {
-    "revision": "5f3b294cd6ba4abc29ab",
-    "url": "/documentations/js/app.f0d041b9.js"
+    "revision": "7c877d6edd56cf8ea4a7",
+    "url": "/documentations/js/app.f628b169.js"
   },
   {
     "revision": "1f6eefbd80a5d5553199",
@@ -76,12 +76,12 @@ self.__precacheManifest = [
     "url": "/documentations/fonts/fa-solid-900.813b8aee.woff2"
   },
   {
-    "revision": "65e3be4eea08191c64040fbcb8006068",
-    "url": "/documentations/fonts/fa-brands-400.65e3be4e.woff2"
-  },
-  {
     "revision": "140f41485edce6f713abe17625eba4c1",
     "url": "/documentations/fonts/fa-solid-900.140f4148.woff"
+  },
+  {
+    "revision": "65e3be4eea08191c64040fbcb8006068",
+    "url": "/documentations/fonts/fa-brands-400.65e3be4e.woff2"
   },
   {
     "revision": "030846b7226a63373512cbd2c71ff51a",
@@ -116,11 +116,11 @@ self.__precacheManifest = [
     "url": "/documentations/img/fa-brands-400.8e04d338.svg"
   },
   {
-    "revision": "750d00e99445b691e8b14bc4b57db025",
+    "revision": "8c9980aad19474a4536b56b9241f0200",
     "url": "/documentations/index.html"
   },
   {
-    "revision": "5f3b294cd6ba4abc29ab",
+    "revision": "7c877d6edd56cf8ea4a7",
     "url": "/documentations/css/app.1a77030c.css"
   }
 ];
