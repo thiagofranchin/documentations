@@ -40,12 +40,12 @@ self.__precacheManifest = [
     "url": "/documentations/js/chunk-2d21d18e.d12f83d9.js"
   },
   {
-    "revision": "37dddf054793542a79b6",
+    "revision": "3d66c82170256b0e8763",
     "url": "/documentations/css/chunk-6c9d3210.702d593a.css"
   },
   {
-    "revision": "37dddf054793542a79b6",
-    "url": "/documentations/js/chunk-6c9d3210.c5e86e4a.js"
+    "revision": "3d66c82170256b0e8763",
+    "url": "/documentations/js/chunk-6c9d3210.f5565e5d.js"
   },
   {
     "revision": "05f356f544dab292bd22",
@@ -60,8 +60,8 @@ self.__precacheManifest = [
     "url": "/documentations/fonts/fa-regular-400.914437d6.woff2"
   },
   {
-    "revision": "7c877d6edd56cf8ea4a7",
-    "url": "/documentations/js/app.f628b169.js"
+    "revision": "338c676c4f240969a590",
+    "url": "/documentations/js/app.381c760e.js"
   },
   {
     "revision": "1f6eefbd80a5d5553199",
@@ -100,12 +100,12 @@ self.__precacheManifest = [
     "url": "/documentations/fonts/fa-brands-400.3f5a250e.ttf"
   },
   {
-    "revision": "4910ec733558f59bf05834d4f831a48d",
-    "url": "/documentations/fonts/fa-solid-900.4910ec73.eot"
-  },
-  {
     "revision": "e57e108a1ae04ca2b27cab75e4478867",
     "url": "/documentations/fonts/fa-solid-900.e57e108a.ttf"
+  },
+  {
+    "revision": "4910ec733558f59bf05834d4f831a48d",
+    "url": "/documentations/fonts/fa-solid-900.4910ec73.eot"
   },
   {
     "revision": "e98a92ac980c63c46a7e25c4fbcf30ef",
@@ -116,11 +116,11 @@ self.__precacheManifest = [
     "url": "/documentations/img/fa-brands-400.8e04d338.svg"
   },
   {
-    "revision": "8c9980aad19474a4536b56b9241f0200",
+    "revision": "5d108e0b8b7ade58f62c10e4fb8ff1c6",
     "url": "/documentations/index.html"
   },
   {
-    "revision": "7c877d6edd56cf8ea4a7",
+    "revision": "338c676c4f240969a590",
     "url": "/documentations/css/app.1a77030c.css"
   }
 ];

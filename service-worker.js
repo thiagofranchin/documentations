@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/documentations/precache-manifest.0da22849a01a46fbfa0f4693a861b529.js"
+  "/documentations/precache-manifest.01bf199bb5138e05ed6e5864ebd4568c.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "cursos"});
