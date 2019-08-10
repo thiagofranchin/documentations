@@ -3,8 +3,7 @@
     <h1>Greensock</h1>
     <small><a href="https://greensock-course.willianjusten.com.br/" target="_blank">Examples</a></small>
     <hr>
-    <GsapExample />
-    <hr>
+    <!-- <GsapExample /> -->
     <pre v-highlightjs>
       <code class="javascript">
     TweenMax.set(target, { properties })
@@ -99,13 +98,34 @@
 
     <h3>NPM</h3>
 
+    <a href="https://www.npmjs.com/package/gsap" target="_blank">
+      <small>
+        https://www.npmjs.com/package/gsap
+      </small>
+    </a>
+
     <pre v-highlightjs>
       <code class="json">
     npm install --save gsap
       </code>
     </pre>
 
-  <h4>Usando com Vue.js</h4>
+    <pre v-highlightjs>
+      <code class="javascript">
+    // main.js
+    import {TweenMax, CSSPlugin, ScrollToPlugin, Draggable, Elastic} from "gsap/all";
+
+    new Vue({
+      TweenMax, CSSPlugin, ScrollToPlugin, Draggable, Elastic,
+      router,
+      store,
+      render: h => h(App)
+    }).$mount('#app')
+
+      </code>
+    </pre>
+
+    <h4>Usando com Vue.js</h4>
 
     <pre v-highlightjs>
       <code class="javascript">
@@ -134,7 +154,7 @@
     <h4>Template</h4>
 
     <pre v-highlightjs>
-      <code class="javascript">
+      <code class="html">
     &lt;div ref="box" class="box item"&gt;&lt;/div&gt;
     &lt;div ref="box2" class="box2 item"&gt;&lt;/div&gt;
       </code>

@@ -8,6 +8,7 @@
     <div class="otherBox1"></div>
     <div class="otherBox2"></div>
     <!-- <div ref="box2" class="box2"></div> -->
+    <hr>
   </div>
 </template>
 
